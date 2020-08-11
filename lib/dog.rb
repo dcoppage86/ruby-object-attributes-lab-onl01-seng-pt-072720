@@ -9,5 +9,5 @@ class Dog
 end
 
 fido = Dog.new("Fido") 
-Dog.new = ""
+Dog.new
     
